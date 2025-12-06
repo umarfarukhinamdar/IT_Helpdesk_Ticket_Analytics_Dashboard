@@ -115,7 +115,7 @@ IT-Helpdesk-Ticket-Analytics/
 ## 🚀 How to Run the Project  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/IT-Helpdesk-Ticket-Analytics
+   git clone https://github.com/umarfarukhinamdar/IT_Helpdesk_Ticket_Analytics_Dashboard.git
 
 
 Install dependencies
